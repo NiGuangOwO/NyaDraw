@@ -11,7 +11,19 @@
 ## 安装
 添加 `https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json` 至自定义仓库中，然后在插件安装器中搜索 `NyaDraw` 安装
 
-## 预览
+## 预览视频
+
+
+<div align="center">
+
+
+### 欧米茄绝境验证战
+
+[![欧米茄绝境验证战](https://img.youtube.com/vi/kwsdzQOyzBY/0.jpg)](https://www.youtube.com/watch?v=kwsdzQOyzBY)
+
+</div>
+
+## 实机截图
 <img src="image.png">
 <img src="image (1).png">
 <img src="image (2).png">
